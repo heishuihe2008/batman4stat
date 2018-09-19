@@ -1,0 +1,411 @@
+PING n5 (00:00:0d:18:08:05) 116(144) bytes of data
+116 bytes from n5 icmp_seq=1 ttl=49 time=5.09 ms
+RR: 	n2
+	n5
+	n5
+	n1
+	n2
+
+116 bytes from n5 icmp_seq=2 ttl=49 time=3.15 ms	(same route)
+116 bytes from n5 icmp_seq=3 ttl=49 time=1.79 ms	(same route)
+116 bytes from n5 icmp_seq=4 ttl=49 time=1.61 ms	(same route)
+116 bytes from n5 icmp_seq=5 ttl=49 time=3.14 ms	(same route)
+116 bytes from n5 icmp_seq=6 ttl=49 time=6.54 ms	(same route)
+116 bytes from n5 icmp_seq=7 ttl=49 time=1.80 ms	(same route)
+116 bytes from n5 icmp_seq=8 ttl=49 time=8.13 ms	(same route)
+116 bytes from n5 icmp_seq=9 ttl=49 time=1.77 ms	(same route)
+116 bytes from n5 icmp_seq=10 ttl=49 time=3.30 ms	(same route)
+116 bytes from n5 icmp_seq=11 ttl=49 time=1.73 ms	(same route)
+116 bytes from n5 icmp_seq=12 ttl=49 time=33.89 ms	(same route)
+116 bytes from n5 icmp_seq=13 ttl=49 time=3.14 ms	(same route)
+116 bytes from n5 icmp_seq=14 ttl=49 time=22.18 ms	(same route)
+116 bytes from n5 icmp_seq=15 ttl=50 time=1.28 ms
+RR: 	n2
+	n5
+	n5
+	n2
+
+116 bytes from n5 icmp_seq=16 ttl=50 time=1.18 ms	(same route)
+116 bytes from n5 icmp_seq=17 ttl=50 time=4.44 ms	(same route)
+116 bytes from n5 icmp_seq=18 ttl=50 time=2.06 ms	(same route)
+116 bytes from n5 icmp_seq=19 ttl=50 time=1.30 ms	(same route)
+116 bytes from n5 icmp_seq=20 ttl=50 time=1.15 ms	(same route)
+116 bytes from n5 icmp_seq=21 ttl=50 time=1.14 ms	(same route)
+116 bytes from n5 icmp_seq=22 ttl=50 time=4.21 ms	(same route)
+116 bytes from n5 icmp_seq=23 ttl=50 time=5.69 ms	(same route)
+116 bytes from n5 icmp_seq=24 ttl=50 time=2.09 ms	(same route)
+116 bytes from n5 icmp_seq=25 ttl=50 time=1.17 ms	(same route)
+116 bytes from n5 icmp_seq=26 ttl=50 time=1.13 ms	(same route)
+116 bytes from n5 icmp_seq=27 ttl=50 time=1.36 ms	(same route)
+116 bytes from n5 icmp_seq=28 ttl=50 time=2.22 ms	(same route)
+116 bytes from n5 icmp_seq=29 ttl=50 time=1.15 ms	(same route)
+116 bytes from n5 icmp_seq=30 ttl=50 time=1.60 ms	(same route)
+116 bytes from n5 icmp_seq=31 ttl=50 time=1.16 ms	(same route)
+116 bytes from n5 icmp_seq=32 ttl=50 time=8.84 ms	(same route)
+116 bytes from n5 icmp_seq=33 ttl=50 time=1.14 ms	(same route)
+116 bytes from n5 icmp_seq=34 ttl=50 time=1.35 ms	(same route)
+116 bytes from n5 icmp_seq=35 ttl=50 time=2.79 ms	(same route)
+116 bytes from n5 icmp_seq=36 ttl=50 time=1.18 ms	(same route)
+116 bytes from n5 icmp_seq=37 ttl=50 time=1.17 ms	(same route)
+116 bytes from n5 icmp_seq=38 ttl=50 time=1.06 ms	(same route)
+116 bytes from n5 icmp_seq=39 ttl=50 time=1.14 ms	(same route)
+116 bytes from n5 icmp_seq=40 ttl=50 time=1.07 ms	(same route)
+116 bytes from n5 icmp_seq=41 ttl=50 time=1.12 ms	(same route)
+116 bytes from n5 icmp_seq=42 ttl=50 time=9.55 ms	(same route)
+116 bytes from n5 icmp_seq=43 ttl=50 time=1.12 ms	(same route)
+116 bytes from n5 icmp_seq=44 ttl=50 time=0.89 ms	(same route)
+116 bytes from n5 icmp_seq=45 ttl=50 time=2.07 ms	(same route)
+116 bytes from n5 icmp_seq=46 ttl=50 time=87.03 ms	(same route)
+116 bytes from n5 icmp_seq=47 ttl=50 time=1.10 ms	(same route)
+116 bytes from n5 icmp_seq=48 ttl=50 time=1.57 ms	(same route)
+116 bytes from n5 icmp_seq=49 ttl=50 time=1.13 ms	(same route)
+116 bytes from n5 icmp_seq=50 ttl=50 time=1.08 ms	(same route)
+116 bytes from n5 icmp_seq=51 ttl=50 time=1.44 ms	(same route)
+116 bytes from n5 icmp_seq=52 ttl=50 time=1.18 ms	(same route)
+116 bytes from n5 icmp_seq=53 ttl=50 time=1.13 ms	(same route)
+116 bytes from n5 icmp_seq=54 ttl=50 time=14.75 ms	(same route)
+116 bytes from n5 icmp_seq=55 ttl=50 time=9.24 ms	(same route)
+116 bytes from n5 icmp_seq=56 ttl=50 time=4.05 ms	(same route)
+116 bytes from n5 icmp_seq=57 ttl=50 time=20.80 ms	(same route)
+116 bytes from n5 icmp_seq=58 ttl=50 time=1.17 ms	(same route)
+116 bytes from n5 icmp_seq=59 ttl=50 time=2.62 ms	(same route)
+116 bytes from n5 icmp_seq=60 ttl=50 time=1.13 ms	(same route)
+116 bytes from n5 icmp_seq=61 ttl=50 time=1.31 ms	(same route)
+116 bytes from n5 icmp_seq=62 ttl=50 time=1.79 ms	(same route)
+116 bytes from n5 icmp_seq=63 ttl=50 time=0.92 ms	(same route)
+116 bytes from n5 icmp_seq=64 ttl=50 time=1.19 ms	(same route)
+116 bytes from n5 icmp_seq=65 ttl=50 time=1.16 ms	(same route)
+116 bytes from n5 icmp_seq=66 ttl=50 time=1.96 ms	(same route)
+116 bytes from n5 icmp_seq=67 ttl=50 time=3.22 ms	(same route)
+116 bytes from n5 icmp_seq=68 ttl=50 time=16.06 ms	(same route)
+116 bytes from n5 icmp_seq=69 ttl=50 time=1.00 ms	(same route)
+116 bytes from n5 icmp_seq=70 ttl=50 time=3.87 ms	(same route)
+116 bytes from n5 icmp_seq=71 ttl=50 time=4.28 ms	(same route)
+116 bytes from n5 icmp_seq=72 ttl=50 time=1.33 ms	(same route)
+116 bytes from n5 icmp_seq=73 ttl=50 time=1.10 ms	(same route)
+116 bytes from n5 icmp_seq=74 ttl=50 time=1.33 ms	(same route)
+116 bytes from n5 icmp_seq=75 ttl=50 time=33.57 ms	(same route)
+116 bytes from n5 icmp_seq=76 ttl=50 time=1.10 ms	(same route)
+116 bytes from n5 icmp_seq=77 ttl=50 time=11.56 ms	(same route)
+116 bytes from n5 icmp_seq=78 ttl=50 time=1.55 ms	(same route)
+116 bytes from n5 icmp_seq=79 ttl=50 time=67.83 ms	(same route)
+116 bytes from n5 icmp_seq=80 ttl=50 time=1.13 ms	(same route)
+116 bytes from n5 icmp_seq=81 ttl=50 time=2.51 ms	(same route)
+116 bytes from n5 icmp_seq=82 ttl=50 time=1.17 ms	(same route)
+116 bytes from n5 icmp_seq=83 ttl=50 time=2.62 ms	(same route)
+116 bytes from n5 icmp_seq=84 ttl=50 time=3.20 ms	(same route)
+116 bytes from n5 icmp_seq=85 ttl=50 time=60.12 ms	(same route)
+116 bytes from n5 icmp_seq=86 ttl=50 time=13.18 ms	(same route)
+116 bytes from n5 icmp_seq=87 ttl=50 time=1.82 ms	(same route)
+116 bytes from n5 icmp_seq=88 ttl=50 time=22.62 ms	(same route)
+116 bytes from n5 icmp_seq=89 ttl=50 time=1.17 ms	(same route)
+116 bytes from n5 icmp_seq=90 ttl=50 time=1.17 ms	(same route)
+116 bytes from n5 icmp_seq=91 ttl=50 time=1.38 ms	(same route)
+116 bytes from n5 icmp_seq=92 ttl=50 time=2.15 ms	(same route)
+116 bytes from n5 icmp_seq=93 ttl=50 time=1.19 ms	(same route)
+116 bytes from n5 icmp_seq=94 ttl=50 time=2.21 ms	(same route)
+116 bytes from n5 icmp_seq=95 ttl=50 time=1.15 ms	(same route)
+116 bytes from n5 icmp_seq=96 ttl=50 time=8.38 ms	(same route)
+116 bytes from n5 icmp_seq=97 ttl=50 time=1.23 ms	(same route)
+116 bytes from n5 icmp_seq=98 ttl=50 time=1.40 ms	(same route)
+116 bytes from n5 icmp_seq=99 ttl=50 time=5.65 ms	(same route)
+116 bytes from n5 icmp_seq=100 ttl=50 time=3.73 ms	(same route)
+116 bytes from n5 icmp_seq=101 ttl=50 time=2.07 ms	(same route)
+116 bytes from n5 icmp_seq=102 ttl=50 time=1.44 ms	(same route)
+116 bytes from n5 icmp_seq=103 ttl=50 time=36.40 ms	(same route)
+116 bytes from n5 icmp_seq=104 ttl=50 time=2.65 ms	(same route)
+116 bytes from n5 icmp_seq=105 ttl=50 time=35.38 ms	(same route)
+116 bytes from n5 icmp_seq=106 ttl=50 time=3.28 ms	(same route)
+116 bytes from n5 icmp_seq=107 ttl=50 time=288.70 ms	(same route)
+116 bytes from n5 icmp_seq=108 ttl=50 time=16.18 ms	(same route)
+116 bytes from n5 icmp_seq=109 ttl=50 time=7.44 ms	(same route)
+116 bytes from n5 icmp_seq=110 ttl=50 time=28.35 ms	(same route)
+116 bytes from n5 icmp_seq=111 ttl=50 time=7.99 ms	(same route)
+116 bytes from n5 icmp_seq=112 ttl=50 time=2.66 ms	(same route)
+116 bytes from n5 icmp_seq=113 ttl=50 time=1.20 ms	(same route)
+116 bytes from n5 icmp_seq=114 ttl=50 time=1.18 ms	(same route)
+116 bytes from n5 icmp_seq=115 ttl=50 time=231.09 ms	(same route)
+116 bytes from n5 icmp_seq=116 ttl=50 time=83.67 ms	(same route)
+116 bytes from n5 icmp_seq=117 ttl=50 time=12.97 ms	(same route)
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+116 bytes from n5 icmp_seq=124 ttl=49 time=107.20 ms
+RR: 	n2
+	n3
+	n5
+	n5
+	n3
+	n2
+
+116 bytes from n5 icmp_seq=125 ttl=49 time=16.72 ms	(same route)
+116 bytes from n5 icmp_seq=126 ttl=49 time=706.23 ms	(same route)
+116 bytes from n5 icmp_seq=127 ttl=49 time=807.03 ms	(same route)
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+116 bytes from n5 icmp_seq=146 ttl=49 time=899.88 ms
+RR: 	n2
+	n3
+	n4
+	n5
+	n5
+	n3
+	n2
+
+Reply from host n5 timed out
+116 bytes from n5 icmp_seq=148 ttl=49 time=4.21 ms	(same route)
+116 bytes from n5 icmp_seq=149 ttl=49 time=47.67 ms	(same route)
+116 bytes from n5 icmp_seq=150 ttl=49 time=115.34 ms	(same route)
+116 bytes from n5 icmp_seq=151 ttl=49 time=371.09 ms	(same route)
+116 bytes from n5 icmp_seq=152 ttl=49 time=319.56 ms	(same route)
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+116 bytes from n5 icmp_seq=160 ttl=49 time=333.58 ms	(same route)
+Reply from host n5 timed out
+116 bytes from n5 icmp_seq=162 ttl=49 time=145.61 ms	(same route)
+116 bytes from n5 icmp_seq=163 ttl=49 time=163.90 ms	(same route)
+116 bytes from n5 icmp_seq=164 ttl=49 time=247.49 ms	(same route)
+116 bytes from n5 icmp_seq=165 ttl=49 time=74.19 ms	(same route)
+116 bytes from n5 icmp_seq=166 ttl=49 time=300.50 ms	(same route)
+116 bytes from n5 icmp_seq=167 ttl=49 time=238.35 ms	(same route)
+116 bytes from n5 icmp_seq=168 ttl=49 time=149.66 ms	(same route)
+116 bytes from n5 icmp_seq=169 ttl=49 time=249.02 ms	(same route)
+Reply from host n5 timed out
+Reply from host n5 timed out
+Reply from host n5 timed out
+116 bytes from n5 icmp_seq=173 ttl=49 time=2.25 ms	(same route)
+116 bytes from n5 icmp_seq=174 ttl=49 time=111.31 ms	(same route)
+116 bytes from n5 icmp_seq=175 ttl=49 time=131.73 ms	(same route)
+116 bytes from n5 icmp_seq=176 ttl=49 time=165.61 ms	(same route)
+116 bytes from n5 icmp_seq=177 ttl=49 time=151.02 ms	(same route)
+116 bytes from n5 icmp_seq=178 ttl=49 time=366.93 ms	(same route)
+116 bytes from n5 icmp_seq=179 ttl=49 time=78.09 ms	(same route)
+Reply from host n5 timed out
+116 bytes from n5 icmp_seq=181 ttl=49 time=413.36 ms	(same route)
+116 bytes from n5 icmp_seq=182 ttl=49 time=117.11 ms	(same route)
+116 bytes from n5 icmp_seq=183 ttl=49 time=5.87 ms	(same route)
+116 bytes from n5 icmp_seq=184 ttl=48 time=5.24 ms
+RR: 	n2
+	n3
+	n4
+	n5
+	n5
+	n4
+	n3
+	n2
+
+116 bytes from n5 icmp_seq=185 ttl=48 time=142.14 ms	(same route)
+116 bytes from n5 icmp_seq=186 ttl=48 time=449.32 ms	(same route)
+116 bytes from n5 icmp_seq=187 ttl=48 time=12.43 ms	(same route)
+116 bytes from n5 icmp_seq=188 ttl=48 time=8.15 ms	(same route)
+116 bytes from n5 icmp_seq=189 ttl=48 time=5.26 ms	(same route)
+116 bytes from n5 icmp_seq=190 ttl=48 time=37.82 ms	(same route)
+116 bytes from n5 icmp_seq=191 ttl=48 time=3.56 ms	(same route)
+116 bytes from n5 icmp_seq=192 ttl=48 time=4.13 ms
+RR: 	n2
+	n1
+	n3
+	n4
+	n5
+	n5
+	n4
+	n3
+	n2
+
+116 bytes from n5 icmp_seq=193 ttl=48 time=69.00 ms
+RR: 	n2
+	n5
+	n5
+	n4
+	n3
+	n2
+
+116 bytes from n5 icmp_seq=194 ttl=48 time=301.25 ms	(same route)
+116 bytes from n5 icmp_seq=195 ttl=48 time=449.24 ms	(same route)
+116 bytes from n5 icmp_seq=196 ttl=48 time=2.66 ms	(same route)
+116 bytes from n5 icmp_seq=197 ttl=48 time=2.54 ms	(same route)
+116 bytes from n5 icmp_seq=198 ttl=48 time=4.71 ms	(same route)
+116 bytes from n5 icmp_seq=199 ttl=48 time=90.71 ms	(same route)
+116 bytes from n5 icmp_seq=200 ttl=48 time=2.98 ms	(same route)
+116 bytes from n5 icmp_seq=201 ttl=49 time=145.41 ms
+RR: 	n2
+	n5
+	n5
+	n3
+	n2
+
+116 bytes from n5 icmp_seq=202 ttl=48 time=46.21 ms
+RR: 	n2
+	n5
+	n5
+	n4
+	n3
+	n2
+
+116 bytes from n5 icmp_seq=203 ttl=49 time=2.54 ms
+RR: 	n2
+	n5
+	n5
+	n3
+	n2
+
+116 bytes from n5 icmp_seq=204 ttl=49 time=4.18 ms
+RR: 	n2
+	n3
+	n5
+	n5
+	n3
+	n2
+
+116 bytes from n5 icmp_seq=205 ttl=49 time=5.99 ms	(same route)
+116 bytes from n5 icmp_seq=206 ttl=49 time=9.44 ms	(same route)
+116 bytes from n5 icmp_seq=207 ttl=49 time=2.57 ms	(same route)
+116 bytes from n5 icmp_seq=208 ttl=49 time=3.25 ms	(same route)
+116 bytes from n5 icmp_seq=209 ttl=49 time=2.36 ms	(same route)
+116 bytes from n5 icmp_seq=210 ttl=49 time=2.19 ms	(same route)
+116 bytes from n5 icmp_seq=211 ttl=49 time=15.31 ms	(same route)
+116 bytes from n5 icmp_seq=212 ttl=49 time=2.63 ms	(same route)
+116 bytes from n5 icmp_seq=213 ttl=49 time=2.42 ms	(same route)
+116 bytes from n5 icmp_seq=214 ttl=49 time=2.11 ms	(same route)
+116 bytes from n5 icmp_seq=215 ttl=49 time=98.63 ms	(same route)
+116 bytes from n5 icmp_seq=216 ttl=49 time=4.01 ms	(same route)
+116 bytes from n5 icmp_seq=217 ttl=49 time=2.13 ms	(same route)
+116 bytes from n5 icmp_seq=218 ttl=49 time=2.37 ms	(same route)
+116 bytes from n5 icmp_seq=219 ttl=49 time=8.07 ms	(same route)
+116 bytes from n5 icmp_seq=220 ttl=49 time=2.43 ms	(same route)
+116 bytes from n5 icmp_seq=221 ttl=49 time=4.29 ms	(same route)
+116 bytes from n5 icmp_seq=222 ttl=49 time=2.38 ms	(same route)
+116 bytes from n5 icmp_seq=223 ttl=49 time=4.27 ms	(same route)
+116 bytes from n5 icmp_seq=224 ttl=49 time=2.33 ms	(same route)
+116 bytes from n5 icmp_seq=225 ttl=50 time=1.89 ms
+RR: 	n2
+	n3
+	n5
+	n5
+	n2
+
+116 bytes from n5 icmp_seq=226 ttl=50 time=5.82 ms	(same route)
+116 bytes from n5 icmp_seq=227 ttl=50 time=2.64 ms	(same route)
+116 bytes from n5 icmp_seq=228 ttl=50 time=12.99 ms	(same route)
+116 bytes from n5 icmp_seq=229 ttl=50 time=19.64 ms	(same route)
+116 bytes from n5 icmp_seq=230 ttl=50 time=6.63 ms	(same route)
+116 bytes from n5 icmp_seq=231 ttl=50 time=1.78 ms	(same route)
+116 bytes from n5 icmp_seq=232 ttl=50 time=147.50 ms	(same route)
+116 bytes from n5 icmp_seq=233 ttl=50 time=108.64 ms	(same route)
+116 bytes from n5 icmp_seq=234 ttl=50 time=23.79 ms	(same route)
+116 bytes from n5 icmp_seq=235 ttl=50 time=185.61 ms	(same route)
+116 bytes from n5 icmp_seq=236 ttl=50 time=390.21 ms	(same route)
+116 bytes from n5 icmp_seq=237 ttl=50 time=214.21 ms	(same route)
+116 bytes from n5 icmp_seq=238 ttl=50 time=290.21 ms	(same route)
+116 bytes from n5 icmp_seq=239 ttl=50 time=333.49 ms	(same route)
+116 bytes from n5 icmp_seq=240 ttl=50 time=65.09 ms	(same route)
+116 bytes from n5 icmp_seq=241 ttl=50 time=183.52 ms
+RR: 	n2
+	n5
+	n5
+	n2
+
+116 bytes from n5 icmp_seq=242 ttl=50 time=154.64 ms	(same route)
+116 bytes from n5 icmp_seq=243 ttl=50 time=61.12 ms	(same route)
+116 bytes from n5 icmp_seq=244 ttl=50 time=218.37 ms	(same route)
+116 bytes from n5 icmp_seq=245 ttl=50 time=30.55 ms	(same route)
+116 bytes from n5 icmp_seq=246 ttl=50 time=39.48 ms	(same route)
+116 bytes from n5 icmp_seq=247 ttl=50 time=149.18 ms	(same route)
+116 bytes from n5 icmp_seq=248 ttl=50 time=58.81 ms	(same route)
+116 bytes from n5 icmp_seq=249 ttl=50 time=125.00 ms	(same route)
+116 bytes from n5 icmp_seq=250 ttl=50 time=33.55 ms	(same route)
+116 bytes from n5 icmp_seq=251 ttl=50 time=166.87 ms	(same route)
+116 bytes from n5 icmp_seq=252 ttl=50 time=36.60 ms	(same route)
+116 bytes from n5 icmp_seq=253 ttl=50 time=98.04 ms	(same route)
+116 bytes from n5 icmp_seq=254 ttl=50 time=169.60 ms	(same route)
+116 bytes from n5 icmp_seq=255 ttl=50 time=102.63 ms	(same route)
+116 bytes from n5 icmp_seq=256 ttl=50 time=97.29 ms	(same route)
+116 bytes from n5 icmp_seq=257 ttl=50 time=169.41 ms	(same route)
+116 bytes from n5 icmp_seq=258 ttl=50 time=38.70 ms	(same route)
+116 bytes from n5 icmp_seq=259 ttl=50 time=119.60 ms	(same route)
+116 bytes from n5 icmp_seq=260 ttl=50 time=17.08 ms	(same route)
+116 bytes from n5 icmp_seq=261 ttl=50 time=316.15 ms	(same route)
+116 bytes from n5 icmp_seq=262 ttl=50 time=117.39 ms	(same route)
+116 bytes from n5 icmp_seq=263 ttl=49 time=212.78 ms
+RR: 	n2
+	n5
+	n5
+	n1
+	n2
+
+116 bytes from n5 icmp_seq=264 ttl=49 time=188.53 ms	(same route)
+116 bytes from n5 icmp_seq=265 ttl=49 time=88.34 ms	(same route)
+116 bytes from n5 icmp_seq=266 ttl=49 time=284.36 ms	(same route)
+116 bytes from n5 icmp_seq=267 ttl=49 time=118.52 ms	(same route)
+116 bytes from n5 icmp_seq=268 ttl=49 time=150.64 ms	(same route)
+116 bytes from n5 icmp_seq=269 ttl=49 time=44.06 ms	(same route)
+116 bytes from n5 icmp_seq=270 ttl=49 time=32.81 ms	(same route)
+116 bytes from n5 icmp_seq=271 ttl=49 time=169.34 ms	(same route)
+116 bytes from n5 icmp_seq=272 ttl=49 time=142.70 ms	(same route)
+116 bytes from n5 icmp_seq=273 ttl=49 time=15.50 ms	(same route)
+116 bytes from n5 icmp_seq=274 ttl=49 time=193.07 ms	(same route)
+116 bytes from n5 icmp_seq=275 ttl=49 time=159.62 ms	(same route)
+116 bytes from n5 icmp_seq=276 ttl=49 time=255.83 ms	(same route)
+116 bytes from n5 icmp_seq=277 ttl=49 time=128.65 ms	(same route)
+116 bytes from n5 icmp_seq=278 ttl=49 time=199.30 ms	(same route)
+116 bytes from n5 icmp_seq=279 ttl=49 time=118.65 ms	(same route)
+116 bytes from n5 icmp_seq=280 ttl=49 time=93.34 ms	(same route)
+116 bytes from n5 icmp_seq=281 ttl=49 time=120.57 ms	(same route)
+116 bytes from n5 icmp_seq=282 ttl=49 time=186.96 ms	(same route)
+116 bytes from n5 icmp_seq=283 ttl=49 time=101.80 ms	(same route)
+116 bytes from n5 icmp_seq=284 ttl=49 time=276.40 ms	(same route)
+116 bytes from n5 icmp_seq=285 ttl=49 time=124.24 ms	(same route)
+116 bytes from n5 icmp_seq=286 ttl=49 time=35.21 ms	(same route)
+116 bytes from n5 icmp_seq=287 ttl=49 time=18.26 ms	(same route)
+116 bytes from n5 icmp_seq=288 ttl=49 time=50.32 ms	(same route)
+116 bytes from n5 icmp_seq=289 ttl=49 time=150.70 ms	(same route)
+116 bytes from n5 icmp_seq=290 ttl=49 time=95.76 ms	(same route)
+116 bytes from n5 icmp_seq=291 ttl=49 time=118.47 ms	(same route)
+116 bytes from n5 icmp_seq=292 ttl=49 time=227.02 ms	(same route)
+116 bytes from n5 icmp_seq=293 ttl=48 time=185.51 ms
+RR: 	n2
+	n5
+	n5
+	n1
+	n3
+	n2
+
+116 bytes from n5 icmp_seq=294 ttl=48 time=315.57 ms	(same route)
+116 bytes from n5 icmp_seq=295 ttl=50 time=103.29 ms
+RR: 	n2
+	n5
+	n5
+	n2
+
+116 bytes from n5 icmp_seq=296 ttl=50 time=252.56 ms	(same route)
+116 bytes from n5 icmp_seq=297 ttl=50 time=1.11 ms	(same route)
+116 bytes from n5 icmp_seq=298 ttl=50 time=1.21 ms	(same route)
+116 bytes from n5 icmp_seq=299 ttl=50 time=1.22 ms	(same route)
+116 bytes from n5 icmp_seq=300 ttl=50 time=7.95 ms	(same route)
+--- n5 ping statistics ---
+304 packets transmitted, 263 received, 13% packet loss
+rtt min/avg/max/mdev = 0.892/74.017/899.878/126.004 ms

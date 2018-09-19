@@ -1,0 +1,6 @@
+[B.A.T.M.A.N. adv 2018.1, MainIF/MAC: wlan1/00:00:0d:18:08:04 (bat0/d6:04:fa:99:e3:1c BATMAN_IV)]
+   Originator        last-seen (#/255) Nexthop           [outgoingIF]
+ *                n3    1.560s   (190)                n3 [     wlan1]
+ *                n5    0.230s   (157)                n3 [     wlan1]
+ *                n2    0.530s   (172)                n3 [     wlan1]
+ *                n1    0.780s   (157)                n3 [     wlan1]
