@@ -1,12 +1,6 @@
 PING n4 (00:00:0d:18:08:04) 116(144) bytes of data
 116 bytes from n4 icmp_seq=1 ttl=49 time=5.58 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=2 ttl=49 time=2.76 ms	(same route)
 116 bytes from n4 icmp_seq=3 ttl=49 time=5.93 ms	(same route)
 116 bytes from n4 icmp_seq=4 ttl=49 time=3.50 ms	(same route)
@@ -37,15 +31,7 @@ RR: 	n1
 116 bytes from n4 icmp_seq=29 ttl=49 time=4.12 ms	(same route)
 116 bytes from n4 icmp_seq=30 ttl=49 time=4.37 ms	(same route)
 116 bytes from n4 icmp_seq=31 ttl=49 time=7.18 ms
-RR: 	n1
-	n5
-	n2
-	n3
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n5	n2	n3	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=32 ttl=49 time=18.30 ms	(same route)
 116 bytes from n4 icmp_seq=33 ttl=49 time=27.98 ms	(same route)
 116 bytes from n4 icmp_seq=34 ttl=49 time=73.79 ms	(same route)
@@ -64,39 +50,16 @@ RR: 	n1
 116 bytes from n4 icmp_seq=47 ttl=49 time=11.47 ms	(same route)
 116 bytes from n4 icmp_seq=48 ttl=49 time=6.20 ms	(same route)
 116 bytes from n4 icmp_seq=49 ttl=48 time=5.73 ms
-RR: 	n1
-	n5
-	n2
-	n3
-	n4
-	n4
-	n3
-	n2
-	n1
-
+RR: 	n1	n5	n2	n3	n4	n4	n3	n2	n1
 116 bytes from n4 icmp_seq=50 ttl=48 time=6.53 ms	(same route)
 116 bytes from n4 icmp_seq=51 ttl=48 time=8.30 ms	(same route)
 116 bytes from n4 icmp_seq=52 ttl=48 time=4.26 ms	(same route)
 116 bytes from n4 icmp_seq=53 ttl=49 time=4.69 ms
-RR: 	n1
-	n5
-	n2
-	n3
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n5	n2	n3	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=54 ttl=49 time=12.69 ms	(same route)
 116 bytes from n4 icmp_seq=55 ttl=49 time=5.47 ms	(same route)
 116 bytes from n4 icmp_seq=56 ttl=49 time=2.56 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=57 ttl=49 time=5.83 ms	(same route)
 116 bytes from n4 icmp_seq=58 ttl=49 time=3.97 ms	(same route)
 116 bytes from n4 icmp_seq=59 ttl=49 time=2.59 ms	(same route)
@@ -112,23 +75,10 @@ Reply from host n4 timed out
 116 bytes from n4 icmp_seq=69 ttl=49 time=4.68 ms	(same route)
 116 bytes from n4 icmp_seq=70 ttl=49 time=14.03 ms	(same route)
 116 bytes from n4 icmp_seq=71 ttl=48 time=3.08 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n2
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n2	n1
 116 bytes from n4 icmp_seq=72 ttl=48 time=2.80 ms	(same route)
 116 bytes from n4 icmp_seq=73 ttl=49 time=2.44 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=74 ttl=49 time=6.82 ms	(same route)
 116 bytes from n4 icmp_seq=75 ttl=49 time=133.95 ms	(same route)
 116 bytes from n4 icmp_seq=76 ttl=49 time=25.05 ms	(same route)
@@ -146,46 +96,17 @@ RR: 	n1
 116 bytes from n4 icmp_seq=88 ttl=49 time=2.36 ms	(same route)
 116 bytes from n4 icmp_seq=89 ttl=49 time=2.37 ms	(same route)
 116 bytes from n4 icmp_seq=90 ttl=49 time=8.24 ms
-RR: 	n1
-	n2
-	n5
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n2	n5	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=91 ttl=49 time=17.84 ms
-RR: 	n1
-	n2
-	n5
-	n4
-	n4
-	n5
-	n1
-
+RR: 	n1	n2	n5	n4	n4	n5	n1
 116 bytes from n4 icmp_seq=92 ttl=49 time=13.42 ms	(same route)
 116 bytes from n4 icmp_seq=93 ttl=49 time=4.52 ms	(same route)
 116 bytes from n4 icmp_seq=94 ttl=49 time=5.39 ms	(same route)
 116 bytes from n4 icmp_seq=95 ttl=49 time=109.89 ms	(same route)
 116 bytes from n4 icmp_seq=96 ttl=48 time=3.63 ms
-RR: 	n1
-	n2
-	n5
-	n4
-	n4
-	n5
-	n2
-	n1
-
+RR: 	n1	n2	n5	n4	n4	n5	n2	n1
 116 bytes from n4 icmp_seq=97 ttl=49 time=13.72 ms
-RR: 	n1
-	n2
-	n5
-	n4
-	n4
-	n5
-	n1
-
+RR: 	n1	n2	n5	n4	n4	n5	n1
 116 bytes from n4 icmp_seq=98 ttl=49 time=30.86 ms	(same route)
 116 bytes from n4 icmp_seq=99 ttl=49 time=4.23 ms	(same route)
 116 bytes from n4 icmp_seq=100 ttl=49 time=106.97 ms	(same route)
@@ -202,14 +123,7 @@ RR: 	n1
 116 bytes from n4 icmp_seq=111 ttl=49 time=50.12 ms	(same route)
 116 bytes from n4 icmp_seq=112 ttl=49 time=3.26 ms	(same route)
 116 bytes from n4 icmp_seq=113 ttl=49 time=3.18 ms
-RR: 	n1
-	n3
-	n5
-	n4
-	n4
-	n5
-	n1
-
+RR: 	n1	n3	n5	n4	n4	n5	n1
 116 bytes from n4 icmp_seq=114 ttl=49 time=3.15 ms	(same route)
 116 bytes from n4 icmp_seq=115 ttl=49 time=137.28 ms	(same route)
 116 bytes from n4 icmp_seq=116 ttl=49 time=4.18 ms	(same route)
@@ -219,25 +133,10 @@ Reply from host n4 timed out
 Reply from host n4 timed out
 Reply from host n4 timed out
 116 bytes from n4 icmp_seq=122 ttl=49 time=87.59 ms
-RR: 	n1
-	n3
-	n5
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n3	n5	n4	n4	n3	n1
 Reply from host n4 timed out
 116 bytes from n4 icmp_seq=124 ttl=48 time=8.60 ms
-RR: 	n1
-	n3
-	n5
-	n4
-	n4
-	n5
-	n3
-	n1
-
+RR: 	n1	n3	n5	n4	n4	n5	n3	n1
 116 bytes from n4 icmp_seq=125 ttl=48 time=6.74 ms	(same route)
 116 bytes from n4 icmp_seq=126 ttl=48 time=717.09 ms	(same route)
 116 bytes from n4 icmp_seq=127 ttl=48 time=818.70 ms	(same route)
@@ -263,13 +162,7 @@ Reply from host n4 timed out
 Reply from host n4 timed out
 Reply from host n4 timed out
 116 bytes from n4 icmp_seq=149 ttl=49 time=2.41 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=150 ttl=49 time=31.94 ms	(same route)
 116 bytes from n4 icmp_seq=151 ttl=49 time=6.10 ms	(same route)
 116 bytes from n4 icmp_seq=152 ttl=49 time=4.61 ms	(same route)
@@ -297,14 +190,7 @@ RR: 	n1
 116 bytes from n4 icmp_seq=174 ttl=49 time=7.63 ms	(same route)
 116 bytes from n4 icmp_seq=175 ttl=49 time=2.45 ms	(same route)
 116 bytes from n4 icmp_seq=176 ttl=48 time=26.56 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n2
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n2	n1
 116 bytes from n4 icmp_seq=177 ttl=48 time=4.03 ms	(same route)
 116 bytes from n4 icmp_seq=178 ttl=48 time=2.94 ms	(same route)
 116 bytes from n4 icmp_seq=179 ttl=48 time=3.78 ms	(same route)
@@ -319,13 +205,7 @@ RR: 	n1
 116 bytes from n4 icmp_seq=188 ttl=48 time=3.12 ms	(same route)
 116 bytes from n4 icmp_seq=189 ttl=48 time=3.24 ms	(same route)
 116 bytes from n4 icmp_seq=190 ttl=49 time=2.92 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=191 ttl=49 time=2.51 ms	(same route)
 116 bytes from n4 icmp_seq=192 ttl=49 time=2.39 ms	(same route)
 116 bytes from n4 icmp_seq=193 ttl=49 time=51.78 ms	(same route)
@@ -334,67 +214,24 @@ RR: 	n1
 116 bytes from n4 icmp_seq=196 ttl=49 time=2.63 ms	(same route)
 116 bytes from n4 icmp_seq=197 ttl=49 time=2.50 ms	(same route)
 116 bytes from n4 icmp_seq=198 ttl=48 time=39.13 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n2
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n2	n1
 116 bytes from n4 icmp_seq=199 ttl=48 time=129.51 ms	(same route)
 116 bytes from n4 icmp_seq=200 ttl=48 time=4.06 ms
-RR: 	n1
-	n3
-	n5
-	n4
-	n4
-	n3
-	n2
-	n1
-
+RR: 	n1	n3	n5	n4	n4	n3	n2	n1
 116 bytes from n4 icmp_seq=201 ttl=48 time=4.16 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n2
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n2	n1
 116 bytes from n4 icmp_seq=202 ttl=48 time=23.82 ms	(same route)
 116 bytes from n4 icmp_seq=203 ttl=48 time=8.07 ms	(same route)
 116 bytes from n4 icmp_seq=204 ttl=49 time=8.54 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=205 ttl=49 time=4.29 ms	(same route)
 116 bytes from n4 icmp_seq=206 ttl=49 time=4.98 ms	(same route)
 116 bytes from n4 icmp_seq=207 ttl=49 time=2.32 ms	(same route)
 116 bytes from n4 icmp_seq=208 ttl=48 time=8.28 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n5
-	n3
-	n1
-
+RR: 	n1	n3	n4	n4	n5	n3	n1
 116 bytes from n4 icmp_seq=209 ttl=48 time=8.12 ms	(same route)
 116 bytes from n4 icmp_seq=210 ttl=48 time=5.10 ms
-RR: 	n1
-	n3
-	n5
-	n4
-	n4
-	n5
-	n3
-	n1
-
+RR: 	n1	n3	n5	n4	n4	n5	n3	n1
 116 bytes from n4 icmp_seq=211 ttl=48 time=6.84 ms	(same route)
 116 bytes from n4 icmp_seq=212 ttl=48 time=3.17 ms	(same route)
 116 bytes from n4 icmp_seq=213 ttl=48 time=3.69 ms	(same route)
@@ -416,14 +253,7 @@ RR: 	n1
 116 bytes from n4 icmp_seq=229 ttl=48 time=7.97 ms	(same route)
 116 bytes from n4 icmp_seq=230 ttl=48 time=54.50 ms	(same route)
 116 bytes from n4 icmp_seq=231 ttl=49 time=3.82 ms
-RR: 	n1
-	n3
-	n5
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n3	n5	n4	n4	n3	n1
 Reply from host n4 timed out
 Reply from host n4 timed out
 Reply from host n4 timed out
@@ -445,13 +275,7 @@ Reply from host n4 timed out
 Reply from host n4 timed out
 Reply from host n4 timed out
 116 bytes from n4 icmp_seq=252 ttl=49 time=7.53 ms
-RR: 	n1
-	n3
-	n4
-	n4
-	n3
-	n1
-
+RR: 	n1	n3	n4	n4	n3	n1
 116 bytes from n4 icmp_seq=253 ttl=49 time=3.12 ms	(same route)
 116 bytes from n4 icmp_seq=254 ttl=49 time=5.05 ms	(same route)
 116 bytes from n4 icmp_seq=255 ttl=49 time=13.88 ms	(same route)
