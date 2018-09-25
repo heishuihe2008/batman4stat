@@ -12,13 +12,11 @@ timeout=300000
 
 if [ $# -ge 1 ]; then
 	timeout=$1
-	#echo "Timeout: $timeout"
 fi
 
 # output format:
-# k n orig neigh tq lastseen isdefault_route
+# k n orig neigh tq lastseen is_router
 
-#while true
 until [ $k -gt $timeout ];
 do
 
