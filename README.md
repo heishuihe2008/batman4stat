@@ -29,6 +29,7 @@ dirs and files:
 	run.m			Matlab script to run.
 	
 file type and file name rule:
+
 	log		TQ record, which have 7 columns: time_index, neigh_index, orig, neigh, TQ, last_seen, is_router
 	
 	png		TQ plot, n1o2.m000.png means: recored in Node 1, TQ of Originator 2, time from minute 0 (10 minutes by default)
@@ -37,3 +38,6 @@ file type and file name rule:
 	
 	mat		Matlab .mat file
 	
+TQ initial value:
+
+	TQ is initilized by -10. In a plot, if TQ is -10, it means the specific TQ is not provided.
