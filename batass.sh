@@ -18,7 +18,6 @@ while true
 do
 
 	#awk -v VARIABLE=$VAR '{ print VARIABLE }'
-
 	iwinfo wlan1 ass | awk -v k=$k '
 		BEGIN 
 		{
