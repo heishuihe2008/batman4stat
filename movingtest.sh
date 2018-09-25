@@ -33,7 +33,6 @@ packetcount=300
 for i in $(seq 1 $NodeNum); do
 	node=n$i;
 	if [[ $node != $hostname ]]; then
-#		echo "batctl ping"
 		batctl ping -c $packetcount -R $node > "$hostname.ping$i.log" &
 	fi 
 done
