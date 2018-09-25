@@ -1,7 +1,6 @@
 #!/bin/sh
 
 datestr=$(date +"%Y-%m-%d %H:%M:%S")
-logfile="batstat.log"
 
 # change dir to /etc/app, where bat-hosts exists.
 cd /etc/app
@@ -22,7 +21,6 @@ until [ $k -gt $timeout ];
 do
 
 	#awk -v VARIABLE=$VAR '{ print VARIABLE }'
-
 	batctl o | grep "wlan.]" | tr -d "()s" | awk -v k=$k '
 		BEGIN 
 		{
