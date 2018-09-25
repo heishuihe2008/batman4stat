@@ -1,7 +1,7 @@
 # batman4stat
 batman-adv IV field test results
 
-dir:
+dirs and files:
 	+batstat-4n			4 static nodes in line test result
 	
 	+batstat-7n-0916	7 static nodes, 4 in line plus 3 additional nodes, 16 Sep. 2018
