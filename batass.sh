@@ -37,7 +37,6 @@ do
 
 		}
 	'
-#	echo
 	let k=k+1
 	sleep $timeout
 done
