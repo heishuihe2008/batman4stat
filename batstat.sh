@@ -3,6 +3,7 @@
 datestr=$(date +"%Y-%m-%d %H:%M:%S")
 logfile="batstat.log"
 
+# change dir to /etc/app, where bat-hosts exists.
 cd /etc/app
 
 #echo $datestr
