@@ -1,8 +1,8 @@
 #!/bin/sh
 
 datestr=$(date +"%Y-%m-%d %H:%M:%S")
-logfile="batstat.log"
 
+# change dir to /etc/app, where bat-hosts exists.
 cd /etc/app
 
 #echo $datestr
@@ -12,18 +12,15 @@ timeout=300000
 
 if [ $# -ge 1 ]; then
 	timeout=$1
-	#echo "Timeout: $timeout"
 fi
 
 # output format:
-# k n orig neigh tq lastseen isdefault_route
+# k n orig neigh tq lastseen is_router
 
-#while true
 until [ $k -gt $timeout ];
 do
 
 	#awk -v VARIABLE=$VAR '{ print VARIABLE }'
-
 	batctl o | grep "wlan.]" | tr -d "()s" | awk -v k=$k '
 		BEGIN 
 		{

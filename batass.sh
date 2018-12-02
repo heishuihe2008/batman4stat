@@ -18,7 +18,6 @@ while true
 do
 
 	#awk -v VARIABLE=$VAR '{ print VARIABLE }'
-
 	iwinfo wlan1 ass | awk -v k=$k '
 		BEGIN 
 		{
@@ -29,16 +28,13 @@ do
 
 		{
 			print k, n, $1, $2, $5, $13, $21, $30
-
 			n++
 		}
 
 		END 
 		{
-
 		}
 	'
-#	echo
 	let k=k+1
 	sleep $timeout
 done
