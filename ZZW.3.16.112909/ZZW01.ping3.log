@@ -1,0 +1,364 @@
+PING N3 (00:00:0c:18:11:03) 116(144) bytes of data
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=2 ttl=49 time=346.23 ms
+RR: 	N1
+	N3
+	N3
+	N2
+	N1
+
+116 bytes from N3 icmp_seq=3 ttl=49 time=2.42 ms	(same route)
+116 bytes from N3 icmp_seq=4 ttl=49 time=650.04 ms	(same route)
+116 bytes from N3 icmp_seq=5 ttl=49 time=563.46 ms	(same route)
+116 bytes from N3 icmp_seq=6 ttl=49 time=18.80 ms	(same route)
+116 bytes from N3 icmp_seq=7 ttl=49 time=415.18 ms	(same route)
+116 bytes from N3 icmp_seq=8 ttl=49 time=5.27 ms	(same route)
+116 bytes from N3 icmp_seq=9 ttl=49 time=4.52 ms	(same route)
+116 bytes from N3 icmp_seq=10 ttl=49 time=2.57 ms	(same route)
+116 bytes from N3 icmp_seq=11 ttl=49 time=22.86 ms	(same route)
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=13 ttl=49 time=437.73 ms	(same route)
+116 bytes from N3 icmp_seq=14 ttl=49 time=209.24 ms	(same route)
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=16 ttl=49 time=648.26 ms	(same route)
+116 bytes from N3 icmp_seq=17 ttl=49 time=628.32 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=30 ttl=49 time=14.38 ms	(same route)
+116 bytes from N3 icmp_seq=31 ttl=49 time=4.37 ms	(same route)
+116 bytes from N3 icmp_seq=32 ttl=49 time=3.65 ms	(same route)
+116 bytes from N3 icmp_seq=33 ttl=49 time=234.77 ms	(same route)
+116 bytes from N3 icmp_seq=34 ttl=49 time=592.31 ms	(same route)
+116 bytes from N3 icmp_seq=35 ttl=49 time=69.76 ms	(same route)
+116 bytes from N3 icmp_seq=36 ttl=49 time=4.45 ms	(same route)
+116 bytes from N3 icmp_seq=37 ttl=49 time=32.60 ms	(same route)
+116 bytes from N3 icmp_seq=38 ttl=49 time=59.84 ms	(same route)
+116 bytes from N3 icmp_seq=39 ttl=49 time=16.21 ms	(same route)
+116 bytes from N3 icmp_seq=40 ttl=49 time=66.49 ms	(same route)
+116 bytes from N3 icmp_seq=41 ttl=49 time=418.94 ms	(same route)
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=43 ttl=49 time=815.13 ms	(same route)
+116 bytes from N3 icmp_seq=44 ttl=49 time=83.82 ms	(same route)
+116 bytes from N3 icmp_seq=45 ttl=49 time=69.25 ms	(same route)
+116 bytes from N3 icmp_seq=46 ttl=49 time=22.24 ms	(same route)
+116 bytes from N3 icmp_seq=47 ttl=49 time=674.49 ms	(same route)
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=49 ttl=49 time=34.74 ms	(same route)
+116 bytes from N3 icmp_seq=50 ttl=49 time=31.27 ms
+RR: 	N1
+	N2
+	N3
+	N3
+	N2
+	N1
+
+116 bytes from N3 icmp_seq=51 ttl=49 time=61.56 ms	(same route)
+116 bytes from N3 icmp_seq=52 ttl=49 time=311.41 ms	(same route)
+116 bytes from N3 icmp_seq=53 ttl=49 time=11.89 ms	(same route)
+116 bytes from N3 icmp_seq=54 ttl=49 time=36.88 ms	(same route)
+116 bytes from N3 icmp_seq=55 ttl=49 time=24.50 ms	(same route)
+116 bytes from N3 icmp_seq=56 ttl=49 time=8.58 ms	(same route)
+116 bytes from N3 icmp_seq=57 ttl=49 time=18.71 ms	(same route)
+116 bytes from N3 icmp_seq=58 ttl=49 time=6.94 ms	(same route)
+116 bytes from N3 icmp_seq=59 ttl=49 time=45.17 ms	(same route)
+116 bytes from N3 icmp_seq=60 ttl=49 time=9.79 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=68 ttl=50 time=573.09 ms
+RR: 	N1
+	N2
+	N3
+	N3
+	N1
+
+116 bytes from N3 icmp_seq=69 ttl=50 time=91.94 ms	(same route)
+116 bytes from N3 icmp_seq=70 ttl=50 time=474.25 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=78 ttl=50 time=673.22 ms	(same route)
+116 bytes from N3 icmp_seq=79 ttl=50 time=31.91 ms	(same route)
+116 bytes from N3 icmp_seq=80 ttl=50 time=258.35 ms	(same route)
+116 bytes from N3 icmp_seq=81 ttl=50 time=125.21 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=87 ttl=50 time=36.58 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=91 ttl=50 time=115.55 ms	(same route)
+116 bytes from N3 icmp_seq=92 ttl=50 time=850.94 ms	(same route)
+116 bytes from N3 icmp_seq=93 ttl=50 time=681.33 ms	(same route)
+116 bytes from N3 icmp_seq=94 ttl=50 time=7.75 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=105 ttl=50 time=30.05 ms
+RR: 	N1
+	N3
+	N3
+	N1
+
+116 bytes from N3 icmp_seq=106 ttl=50 time=706.30 ms	(same route)
+116 bytes from N3 icmp_seq=107 ttl=50 time=589.68 ms	(same route)
+116 bytes from N3 icmp_seq=108 ttl=50 time=3.86 ms	(same route)
+116 bytes from N3 icmp_seq=109 ttl=50 time=340.10 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=119 ttl=50 time=712.26 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=134 ttl=50 time=92.26 ms	(same route)
+116 bytes from N3 icmp_seq=135 ttl=50 time=383.60 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=140 ttl=50 time=36.63 ms	(same route)
+116 bytes from N3 icmp_seq=141 ttl=50 time=11.89 ms	(same route)
+116 bytes from N3 icmp_seq=142 ttl=50 time=2.59 ms	(same route)
+116 bytes from N3 icmp_seq=143 ttl=50 time=13.04 ms	(same route)
+116 bytes from N3 icmp_seq=144 ttl=50 time=628.88 ms	(same route)
+116 bytes from N3 icmp_seq=145 ttl=50 time=2.17 ms	(same route)
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=147 ttl=50 time=227.44 ms	(same route)
+116 bytes from N3 icmp_seq=148 ttl=50 time=791.44 ms	(same route)
+116 bytes from N3 icmp_seq=149 ttl=50 time=768.37 ms	(same route)
+116 bytes from N3 icmp_seq=150 ttl=50 time=725.57 ms	(same route)
+116 bytes from N3 icmp_seq=151 ttl=50 time=535.94 ms	(same route)
+116 bytes from N3 icmp_seq=152 ttl=50 time=40.72 ms	(same route)
+116 bytes from N3 icmp_seq=153 ttl=50 time=13.84 ms	(same route)
+116 bytes from N3 icmp_seq=154 ttl=50 time=927.82 ms	(same route)
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=156 ttl=50 time=657.65 ms	(same route)
+116 bytes from N3 icmp_seq=157 ttl=50 time=977.05 ms	(same route)
+116 bytes from N3 icmp_seq=158 ttl=50 time=1.70 ms	(same route)
+116 bytes from N3 icmp_seq=159 ttl=50 time=242.07 ms	(same route)
+116 bytes from N3 icmp_seq=160 ttl=50 time=612.35 ms	(same route)
+116 bytes from N3 icmp_seq=161 ttl=50 time=706.32 ms	(same route)
+116 bytes from N3 icmp_seq=162 ttl=50 time=9.39 ms	(same route)
+116 bytes from N3 icmp_seq=163 ttl=49 time=27.02 ms
+RR: 	N1
+	N3
+	N3
+	N2
+	N1
+
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=165 ttl=49 time=859.50 ms	(same route)
+116 bytes from N3 icmp_seq=166 ttl=49 time=496.70 ms	(same route)
+116 bytes from N3 icmp_seq=167 ttl=49 time=585.44 ms	(same route)
+116 bytes from N3 icmp_seq=168 ttl=49 time=3.56 ms	(same route)
+116 bytes from N3 icmp_seq=169 ttl=49 time=7.69 ms	(same route)
+116 bytes from N3 icmp_seq=170 ttl=49 time=883.22 ms	(same route)
+116 bytes from N3 icmp_seq=171 ttl=49 time=504.05 ms	(same route)
+116 bytes from N3 icmp_seq=172 ttl=49 time=175.36 ms	(same route)
+116 bytes from N3 icmp_seq=173 ttl=49 time=11.21 ms	(same route)
+116 bytes from N3 icmp_seq=174 ttl=49 time=2.56 ms	(same route)
+116 bytes from N3 icmp_seq=175 ttl=49 time=341.48 ms	(same route)
+116 bytes from N3 icmp_seq=176 ttl=49 time=122.91 ms	(same route)
+116 bytes from N3 icmp_seq=177 ttl=49 time=1.76 ms	(same route)
+116 bytes from N3 icmp_seq=178 ttl=49 time=5.34 ms	(same route)
+116 bytes from N3 icmp_seq=179 ttl=49 time=76.58 ms	(same route)
+116 bytes from N3 icmp_seq=180 ttl=49 time=460.27 ms	(same route)
+116 bytes from N3 icmp_seq=181 ttl=49 time=1.77 ms	(same route)
+116 bytes from N3 icmp_seq=182 ttl=49 time=1.83 ms	(same route)
+116 bytes from N3 icmp_seq=183 ttl=49 time=1.65 ms	(same route)
+116 bytes from N3 icmp_seq=184 ttl=49 time=10.04 ms	(same route)
+116 bytes from N3 icmp_seq=185 ttl=49 time=1.71 ms	(same route)
+116 bytes from N3 icmp_seq=186 ttl=49 time=2.79 ms	(same route)
+116 bytes from N3 icmp_seq=187 ttl=49 time=1.74 ms	(same route)
+116 bytes from N3 icmp_seq=188 ttl=49 time=3.48 ms	(same route)
+116 bytes from N3 icmp_seq=189 ttl=49 time=939.28 ms	(same route)
+116 bytes from N3 icmp_seq=190 ttl=49 time=7.17 ms	(same route)
+116 bytes from N3 icmp_seq=191 ttl=49 time=547.72 ms	(same route)
+116 bytes from N3 icmp_seq=192 ttl=49 time=538.71 ms	(same route)
+116 bytes from N3 icmp_seq=193 ttl=49 time=410.59 ms	(same route)
+116 bytes from N3 icmp_seq=194 ttl=49 time=4.30 ms	(same route)
+116 bytes from N3 icmp_seq=195 ttl=49 time=2.90 ms	(same route)
+116 bytes from N3 icmp_seq=196 ttl=49 time=517.68 ms	(same route)
+116 bytes from N3 icmp_seq=197 ttl=49 time=906.18 ms	(same route)
+116 bytes from N3 icmp_seq=198 ttl=49 time=711.93 ms	(same route)
+116 bytes from N3 icmp_seq=199 ttl=49 time=28.39 ms	(same route)
+116 bytes from N3 icmp_seq=200 ttl=49 time=6.73 ms	(same route)
+116 bytes from N3 icmp_seq=201 ttl=49 time=206.12 ms	(same route)
+116 bytes from N3 icmp_seq=202 ttl=49 time=4.35 ms	(same route)
+116 bytes from N3 icmp_seq=203 ttl=49 time=20.19 ms	(same route)
+116 bytes from N3 icmp_seq=204 ttl=49 time=2.05 ms	(same route)
+116 bytes from N3 icmp_seq=205 ttl=49 time=46.07 ms	(same route)
+116 bytes from N3 icmp_seq=206 ttl=49 time=81.32 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=231 ttl=50 time=0.02 ms
+RR: 	N1
+	N2
+	N3
+	N3
+	N1
+
+116 bytes from N3 icmp_seq=232 ttl=50 time=245.86 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=239 ttl=49 time=772.39 ms
+RR: 	N1
+	N2
+	N3
+	N3
+	N2
+	N1
+
+116 bytes from N3 icmp_seq=240 ttl=49 time=27.06 ms	(same route)
+116 bytes from N3 icmp_seq=241 ttl=49 time=2.37 ms	(same route)
+116 bytes from N3 icmp_seq=242 ttl=49 time=5.81 ms	(same route)
+116 bytes from N3 icmp_seq=243 ttl=49 time=17.52 ms	(same route)
+116 bytes from N3 icmp_seq=244 ttl=49 time=471.00 ms	(same route)
+116 bytes from N3 icmp_seq=245 ttl=49 time=36.64 ms	(same route)
+116 bytes from N3 icmp_seq=246 ttl=49 time=11.99 ms	(same route)
+116 bytes from N3 icmp_seq=247 ttl=49 time=18.40 ms	(same route)
+116 bytes from N3 icmp_seq=248 ttl=49 time=6.08 ms	(same route)
+116 bytes from N3 icmp_seq=249 ttl=49 time=27.23 ms	(same route)
+116 bytes from N3 icmp_seq=250 ttl=49 time=15.76 ms	(same route)
+116 bytes from N3 icmp_seq=251 ttl=49 time=469.39 ms	(same route)
+116 bytes from N3 icmp_seq=252 ttl=49 time=3.38 ms	(same route)
+116 bytes from N3 icmp_seq=253 ttl=49 time=44.50 ms	(same route)
+116 bytes from N3 icmp_seq=254 ttl=49 time=8.69 ms
+RR: 	N1
+	N3
+	N3
+	N2
+	N1
+
+116 bytes from N3 icmp_seq=255 ttl=49 time=6.21 ms	(same route)
+116 bytes from N3 icmp_seq=256 ttl=49 time=42.95 ms	(same route)
+116 bytes from N3 icmp_seq=257 ttl=49 time=1.73 ms	(same route)
+116 bytes from N3 icmp_seq=258 ttl=49 time=41.43 ms	(same route)
+116 bytes from N3 icmp_seq=259 ttl=49 time=12.08 ms	(same route)
+116 bytes from N3 icmp_seq=260 ttl=49 time=605.27 ms	(same route)
+116 bytes from N3 icmp_seq=261 ttl=49 time=12.21 ms	(same route)
+116 bytes from N3 icmp_seq=262 ttl=49 time=423.89 ms	(same route)
+116 bytes from N3 icmp_seq=263 ttl=49 time=9.12 ms	(same route)
+116 bytes from N3 icmp_seq=264 ttl=49 time=105.48 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=267 ttl=49 time=617.70 ms	(same route)
+116 bytes from N3 icmp_seq=268 ttl=49 time=624.62 ms	(same route)
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=270 ttl=49 time=47.85 ms	(same route)
+116 bytes from N3 icmp_seq=271 ttl=50 time=423.30 ms
+RR: 	N1
+	N3
+	N3
+	N1
+
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=274 ttl=50 time=0.02 ms
+RR: 	N1
+	N2
+	N3
+	N3
+	N1
+
+116 bytes from N3 icmp_seq=275 ttl=50 time=10.52 ms	(same route)
+116 bytes from N3 icmp_seq=276 ttl=50 time=5.16 ms	(same route)
+116 bytes from N3 icmp_seq=277 ttl=50 time=2.98 ms	(same route)
+116 bytes from N3 icmp_seq=278 ttl=50 time=1.76 ms	(same route)
+116 bytes from N3 icmp_seq=279 ttl=50 time=3.98 ms	(same route)
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=286 ttl=50 time=0.03 ms	(same route)
+Reply from host N3 timed out
+116 bytes from N3 icmp_seq=288 ttl=50 time=142.03 ms	(same route)
+116 bytes from N3 icmp_seq=289 ttl=50 time=281.78 ms	(same route)
+116 bytes from N3 icmp_seq=290 ttl=50 time=17.53 ms	(same route)
+116 bytes from N3 icmp_seq=291 ttl=50 time=971.41 ms	(same route)
+116 bytes from N3 icmp_seq=292 ttl=50 time=5.12 ms	(same route)
+116 bytes from N3 icmp_seq=293 ttl=50 time=5.44 ms	(same route)
+116 bytes from N3 icmp_seq=294 ttl=50 time=4.17 ms	(same route)
+116 bytes from N3 icmp_seq=295 ttl=50 time=947.60 ms	(same route)
+116 bytes from N3 icmp_seq=296 ttl=50 time=10.92 ms	(same route)
+116 bytes from N3 icmp_seq=297 ttl=50 time=31.40 ms	(same route)
+116 bytes from N3 icmp_seq=298 ttl=50 time=4.62 ms	(same route)
+116 bytes from N3 icmp_seq=299 ttl=50 time=467.99 ms	(same route)
+116 bytes from N3 icmp_seq=300 ttl=50 time=6.68 ms	(same route)
+--- N3 ping statistics ---
+390 packets transmitted, 179 received, 54% packet loss
+rtt min/avg/max/mdev = 0.017/224.025/977.050/292.737 ms

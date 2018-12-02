@@ -1,7 +1,7 @@
 function tq = tq_stat(dirname, node_index)
 
 if (nargin<3)
-    len_seconds =600; % how many seconds in one plot
+    len_seconds =300; % how many seconds in one plot
 end
 
 legendstr = [ 
@@ -9,10 +9,10 @@ legendstr = [
     'Node  6'; 'Node  7'; 'Node  8'; 'Node  9'; 'Node 10'; 
     ];
 
-filename=[dirname '/n' num2str(node_index) '.batstat.log'];
+filename=[dirname '/ZZW0' num2str(node_index) '.batstat.log'];
 disp(['filename: ' filename]);
 fid = fopen(filename);
-data = textscan(fid, '%d %d n%d n%d %d %f %d');
+data = textscan(fid, '%d %d N%d N%d %d %f %d');
 fclose(fid);
 
 m = data{1};
@@ -50,7 +50,7 @@ for i=[1:node_index-1 node_index+1:node_num] % Node node_index excluded
     
     file_prefix = [ dirname '/n' num2str(node_index) 'o' num2str(i) ];
   
-    for s = 0:len_seconds:len_time
+    for s = 0:len_seconds:len_time-1
         axis([s s+len_seconds  -16 256]);
         print('-dpng', [ file_prefix '.m' num2str(s/60,'%03d') '.png']);
         disp(s);
@@ -66,7 +66,7 @@ end
 save([ filename '.mat'])
 end
 
-%%%%%%%%%%%% run script %%%%%%%%%
+%%%%%%%%%%%% go script %%%%%%%%%
 % for i=1:7
 %     tq_stat('batstat-7n-0916',i);
 % end

@@ -1,0 +1,6 @@
+[B.A.T.M.A.N. adv openwrt-2018.4-1, MainIF/MAC: wlan0/00:00:0c:18:11:04 (bat0/d2:71:63:28:b9:bb BATMAN_IV)]
+   Originator        last-seen (#/255) Nexthop           [outgoingIF]
+ *                N3    0.480s   (156)                N3 [     wlan0]
+ *                N5    0.480s   ( 94)                N3 [     wlan0]
+ *                N1    0.100s   (105)                N3 [     wlan0]
+ *                N2    0.270s   (112)                N3 [     wlan0]
